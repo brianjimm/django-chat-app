@@ -15,7 +15,7 @@ import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-SECRET_KEY = os.getenvSECRET_KEY = os.environ.get('SECRET_KEY', 'your-default-secret-key')
+SECRET_KEY = os.getenv(django-insecure-4$&@1z!9z9*7%f#q@u5l4^6z1x2v5y3x7w8a1b9c0d3e4f5g6h7i8j9k0)
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
